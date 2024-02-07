@@ -9,6 +9,8 @@
 # and other non-malicious websites are outside 
 # the scope and intent of this blocklist.
 
+
+# PfCloud, BulletHost, and Others are all affiliated with Neterra Ltd.
 # pfcloud ASN
 45.128.232.0/24
 141.98.4.0/24 
@@ -20,6 +22,9 @@
 87.121.58.0/24
 87.121.69.0/24
 94.103.124.0/24
+
+# Yiff.ltd
+
 
 # BulletHost - Subset of pfcloud
 147.78.103.0/24
