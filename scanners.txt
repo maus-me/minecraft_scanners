@@ -1,0 +1,10 @@
+#
+# minecraft_scanners
+#
+# A firewall blacklist composed from IP lists, providing 
+# protection with minimum false positives. Suitable 
+# for basic protection on all internet facing minecraft servers.
+#
+89.168.125.68
+45.128.232.184
+155.248.209.22
