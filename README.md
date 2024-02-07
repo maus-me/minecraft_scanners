@@ -27,5 +27,5 @@ A ip list to specifically block minecraft scanners.
 
 ### Recommended Blocklists To Use In Addition:
 * [firehol_level1](https://iplists.firehol.org)
-*
-*
+* [firehol_webservers](https://iplists.firehol.org/?ipset=firehol_webserver)
+* 
