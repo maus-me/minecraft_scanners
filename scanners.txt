@@ -10,5 +10,7 @@
 # the scope and intent of this blocklist.
 
 89.168.125.68
-45.128.232.184
+45.128.232.0/24 # pfcloud spam 
+193.35.18.0/24 # pfcloud spam - related
+87.120.254.68
 155.248.209.22
