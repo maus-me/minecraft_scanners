@@ -24,6 +24,7 @@
 # BulletHost - Subset of pfcloud
 147.78.103.0/24
 
+# OSINT Individual IPS
 89.168.125.68
 87.120.254.68
 155.248.209.22
