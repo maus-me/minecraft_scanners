@@ -9,8 +9,25 @@
 # and other non-malicious websites are outside 
 # the scope and intent of this blocklist.
 
+# pfcloud ASN
+45.128.232.0/24
+141.98.4.0/24 
+193.35.18.0/24
+147.78.102.0/24
+2.58.95.0/24
+84.54.51.0/24
+85.114.120.0/21
+87.121.58.0/24
+87.121.69.0/24
+94.103.124.0/24
+
+# BulletHost - Subset of pfcloud
+147.78.103.0/24
+
 89.168.125.68
-45.128.232.0/24 # pfcloud spam 
-193.35.18.0/24 # pfcloud spam - related
 87.120.254.68
 155.248.209.22
+
+
+
+
