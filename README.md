@@ -20,5 +20,12 @@ A ip list to specifically block minecraft scanners.
 
 
 
+
 ### ASN Offenders:
-* PFCloud - They are by far the worst offenders of allowing this activity in their IP ranges.
+* [PFCloud](https://ipinfo.io/AS51396) - They are by far the worst offenders of allowing this activity in their IP ranges.
+* BulletVM - They lease off [PFCloud IP space](https://ipinfo.io/AS51396), offering ["DMCA Ignored" and "Scans Allowed"](https://breachforums.is/Thread-⭐BulletVM-net⭐-CRACKING-SCAN-SPAM-ALLOWED-DMCA-IGNORED-OFFSHORE) services
+
+### Recommended Blocklists To Use In Addition:
+* [firehol_level1](https://iplists.firehol.org)https://iplists.firehol.org
+*
+*
