@@ -1,2 +1,2 @@
-# IPs of known services
+# IPs of known services that may get blocked by other blocklists
 172.104.152.224 # https://mcsrvstat.us
