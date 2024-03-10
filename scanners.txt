@@ -20,7 +20,6 @@
 87.121.58.0/24
 87.121.69.0/24
 94.103.124.0/24
-132.145.243.140/32 # wtf.mynx.lol
 
 #
 # PfCloud downstreams or otherwise affiliates, All registered to blatant shell companies.
@@ -39,6 +38,7 @@
 89.168.125.68
 87.120.254.68
 155.248.209.22
+132.145.243.140/32 # wtf.mynx.lol
 
 # @MomboteQ. An "Ethical Hacker" who apprarently isn't too keen on the "Ethical" part.  
 # https://web.archive.org/web/20240310005000/https://replit.com/@MomboteQ/MinecraftSpamBot
