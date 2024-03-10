@@ -20,6 +20,7 @@
 87.121.58.0/24
 87.121.69.0/24
 94.103.124.0/24
+132.145.243.140/32 # wtf.mynx.lol
 
 #
 # PfCloud downstreams or otherwise affiliates, All registered to blatant shell companies.
