@@ -1,2 +1,3 @@
 # IPs of known services that may get blocked by other blocklists
 172.104.152.224 # https://mcsrvstat.us
+141.98.7.24 # PlanetMinecraft
