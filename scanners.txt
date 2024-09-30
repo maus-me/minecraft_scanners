@@ -52,6 +52,9 @@
 # Residential IP address related to MomboteQ login.
 94.254.174.17
 
+# OVH Portscanner / DoS 9/30
+167.114.82.0/24
+
 
 
 
